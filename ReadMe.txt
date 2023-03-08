@@ -1,3 +1,5 @@
+Forked from https://github.com/ArchiDevil/binaural-generator
+
 Binaural Wave Generator
 
 This software is created for generation of binaural waves to achieve altered states of consciousness. Just compile, open and create you own presets.
